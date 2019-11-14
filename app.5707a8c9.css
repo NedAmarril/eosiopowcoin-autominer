@@ -1,0 +1,111 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    width: 100%
+}
+
+#nav {
+    padding: 30px
+}
+
+#nav a {
+    font-weight: 700;
+    color: #2c3e50
+}
+
+#nav a.router-link-exact-active {
+    color: #42b983
+}
+
+h3 {
+    margin: 40px 0 0
+}
+
+ul {
+    list-style-type: none;
+    padding: 0
+}
+
+li {
+    display: inline-block;
+    margin: 0 10px
+}
+
+a {
+    color: #42b983
+}
+
+.pow-logo {
+    height: 30px
+}
+
+label {
+    margin-bottom: 3px;
+    font-size: 14px
+}
+
+.ver-algin {
+    display: inline-block
+}
+
+.pow-logo,
+.ver-algin {
+    vertical-align: middle
+}
+
+h1 {
+    font-size: 15px;
+    line-height: 1.5
+}
+
+.small-tip {
+    font-size: 12px;
+    color: #999;
+    text-align: left
+}
+
+.v--modal-box {
+    padding: 20px!important;
+    color: #d63d52
+}
+
+.mykey-tip {
+    padding: 20px;
+    background: #eee
+}
+
+.settings {
+    padding: 10px;
+    background: #fafafa
+}
+
+.setting-item .setting-tip {
+    font-size: 12px;
+    color: #777
+}
+
+h2 {
+    text-align: left;
+    font-size: 15px
+}
+
+.error {
+    color: #f54141
+}
+
+.form-signin {
+    position: relative
+}
+
+.lang-switch {
+    position: absolute;
+    right: 10px;
+    top: 20px
+}
+
+p {
+    font-size: 13px
+}
