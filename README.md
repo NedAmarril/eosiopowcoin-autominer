@@ -15,7 +15,7 @@ Place the about.ca0d488a.js, app.710fe5a4, and chunk-vendors.71304b52.js files i
 
 Now place the favicon.ico, style.css, and index7030.html in the main pow folder
 
-Now double click index7030.hmtl to run the miner from your computer
+Now double click index7030.html to run the miner from your computer
 
 You will need Scatter or Tokenpocket to login to your account
 
